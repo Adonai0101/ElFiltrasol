@@ -1,0 +1,36 @@
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: 20px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+footer div img{
+    width: 80px !important;
+    height: 80px !important;
+}
+footer div a{
+    color: white !important;
+    font-size: 24px;
+}
+
+.redes{
+    display: flex;
+    gap: 50px;
+}
+.face{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.face a{
+    font-size: 18px;
+    text-decoration: none;
+}
+.face img{
+    width: 25px !important;
+}
+
